@@ -1,0 +1,41 @@
+@relation R_data_frame
+
+@attribute bankers numeric
+@attribute british numeric
+@attribute capture numeric
+@attribute chancellor numeric
+@attribute changing numeric
+@attribute chess numeric
+@attribute comment numeric
+@attribute countries numeric
+@attribute crew numeric
+@attribute declined numeric
+@attribute emerged numeric
+@attribute exchequer numeric
+@attribute feature numeric
+@attribute finance numeric
+@attribute five numeric
+@attribute german numeric
+@attribute half numeric
+@attribute hard numeric
+@attribute hour numeric
+@attribute indeed numeric
+@attribute kneel numeric
+@attribute local numeric
+@attribute loss numeric
+@attribute meeting numeric
+@attribute minister numeric
+@attribute ministers numeric
+@attribute monetary numeric
+@attribute nights numeric
+@attribute official numeric
+@attribute owed numeric
+@attribute pin numeric
+@attribute scented numeric
+@attribute seven numeric
+@attribute stalled numeric
+@attribute west numeric
+@attribute class {money}
+
+@data
+1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,money

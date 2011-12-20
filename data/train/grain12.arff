@@ -1,0 +1,57 @@
+@relation R_data_frame
+
+@attribute africa numeric
+@attribute agriculture numeric
+@attribute appears numeric
+@attribute argentina numeric
+@attribute asset numeric
+@attribute caught numeric
+@attribute china numeric
+@attribute close numeric
+@attribute competitive numeric
+@attribute conan numeric
+@attribute corn numeric
+@attribute credit numeric
+@attribute day numeric
+@attribute department numeric
+@attribute departments numeric
+@attribute double numeric
+@attribute dramatic numeric
+@attribute eighty numeric
+@attribute five numeric
+@attribute fraught numeric
+@attribute imports numeric
+@attribute increase numeric
+@attribute indicates numeric
+@attribute jump numeric
+@attribute korea numeric
+@attribute kurian numeric
+@attribute light numeric
+@attribute million numeric
+@attribute months numeric
+@attribute nineteen numeric
+@attribute october numeric
+@attribute past numeric
+@attribute prem numeric
+@attribute prices numeric
+@attribute production numeric
+@attribute purchase numeric
+@attribute report numeric
+@attribute season numeric
+@attribute seven numeric
+@attribute shifting numeric
+@attribute sir numeric
+@attribute six numeric
+@attribute south numeric
+@attribute supplies numeric
+@attribute tons numeric
+@attribute total numeric
+@attribute trade numeric
+@attribute tug numeric
+@attribute unite numeric
+@attribute united numeric
+@attribute war numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,3,1,1,5,1,1,1,3,1,1,5,1,2,1,1,1,1,1,1,1,2,1,1,1,4,4,1,4,5,1,1,1,1,1,grain

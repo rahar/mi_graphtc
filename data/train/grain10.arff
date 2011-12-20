@@ -1,0 +1,60 @@
+@relation R_data_frame
+
+@attribute additional numeric
+@attribute agree numeric
+@attribute announce numeric
+@attribute asset numeric
+@attribute available numeric
+@attribute awarded numeric
+@attribute bit numeric
+@attribute bonus numeric
+@attribute busy numeric
+@attribute ccc numeric
+@attribute commodities numeric
+@attribute commodity numeric
+@attribute company numeric
+@attribute corporation numeric
+@attribute cover numeric
+@attribute credit numeric
+@attribute culture numeric
+@attribute dals numeric
+@attribute delivery numeric
+@attribute department numeric
+@attribute dollars numeric
+@attribute eighty numeric
+@attribute enhancement numeric
+@attribute except numeric
+@attribute export numeric
+@attribute fifteenth numeric
+@attribute fifty numeric
+@attribute five numeric
+@attribute flaws numeric
+@attribute flour numeric
+@attribute flourish numeric
+@attribute form numeric
+@attribute initiative numeric
+@attribute iraq numeric
+@attribute january numeric
+@attribute june numeric
+@attribute nights numeric
+@attribute nineteen numeric
+@attribute paying numeric
+@attribute program numeric
+@attribute rat numeric
+@attribute sale numeric
+@attribute seven numeric
+@attribute sixty numeric
+@attribute stocks numeric
+@attribute thirteen numeric
+@attribute thousand numeric
+@attribute ton numeric
+@attribute tons numeric
+@attribute unwritten numeric
+@attribute weak numeric
+@attribute week numeric
+@attribute wet numeric
+@attribute wheat numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,2,1,2,3,1,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,1,3,1,1,1,2,1,1,2,1,2,1,1,grain

@@ -1,0 +1,41 @@
+@relation R_data_frame
+
+@attribute band numeric
+@attribute banned numeric
+@attribute bans numeric
+@attribute buying numeric
+@attribute compares numeric
+@attribute eat numeric
+@attribute eleven numeric
+@attribute england numeric
+@attribute forecast numeric
+@attribute help numeric
+@attribute hundred numeric
+@attribute hunted numeric
+@attribute lynn numeric
+@attribute main numeric
+@attribute market numeric
+@attribute marking numeric
+@attribute million numeric
+@attribute money numeric
+@attribute morning numeric
+@attribute nine numeric
+@attribute offer numeric
+@attribute operated numeric
+@attribute pang numeric
+@attribute pant numeric
+@attribute pay numeric
+@attribute resent numeric
+@attribute seven numeric
+@attribute short numeric
+@attribute six numeric
+@attribute sixteen numeric
+@attribute sixty numeric
+@attribute stay numeric
+@attribute thirteen numeric
+@attribute twenty numeric
+@attribute vets numeric
+@attribute class {money}
+
+@data
+1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,6,2,1,5,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,money

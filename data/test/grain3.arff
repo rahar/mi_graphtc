@@ -1,0 +1,40 @@
+@relation R_data_frame
+
+@attribute agriculture numeric
+@attribute approval numeric
+@attribute approve numeric
+@attribute april numeric
+@attribute axe numeric
+@attribute canine numeric
+@attribute colombo numeric
+@attribute company numeric
+@attribute continental numeric
+@attribute dear numeric
+@attribute department numeric
+@attribute entity numeric
+@attribute fifty numeric
+@attribute five numeric
+@attribute food numeric
+@attribute grain numeric
+@attribute northwest numeric
+@attribute official numeric
+@attribute pacific numeric
+@attribute price numeric
+@attribute rectum numeric
+@attribute reverie numeric
+@attribute set numeric
+@attribute shipment numeric
+@attribute single numeric
+@attribute soft numeric
+@attribute srilanka numeric
+@attribute taller numeric
+@attribute thousand numeric
+@attribute tons numeric
+@attribute upward numeric
+@attribute war numeric
+@attribute weak numeric
+@attribute week numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,grain

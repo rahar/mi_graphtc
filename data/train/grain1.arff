@@ -1,0 +1,51 @@
+@relation R_data_frame
+
+@attribute asset numeric
+@attribute auction numeric
+@attribute bad numeric
+@attribute billion numeric
+@attribute blame numeric
+@attribute calling numeric
+@attribute calls numeric
+@attribute china numeric
+@attribute chinas numeric
+@attribute cities numeric
+@attribute consume numeric
+@attribute court numeric
+@attribute daily numeric
+@attribute details numeric
+@attribute five numeric
+@attribute fur numeric
+@attribute government numeric
+@attribute grain numeric
+@attribute improves numeric
+@attribute inadequate numeric
+@attribute launched numeric
+@attribute math numeric
+@attribute million numeric
+@attribute nation numeric
+@attribute national numeric
+@attribute nineteen numeric
+@attribute paper numeric
+@attribute percent numeric
+@attribute preservation numeric
+@attribute programme numeric
+@attribute provinces numeric
+@attribute reduce numeric
+@attribute route numeric
+@attribute seven numeric
+@attribute stocks numeric
+@attribute storage numeric
+@attribute store numeric
+@attribute survey numeric
+@attribute technology numeric
+@attribute thirty numeric
+@attribute tons numeric
+@attribute turtle numeric
+@attribute twelfth numeric
+@attribute twenty numeric
+@attribute waste numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,2,2,1,1,1,2,1,3,1,1,1,1,1,1,1,1,1,1,1,2,4,2,1,1,1,1,4,2,1,1,1,1,1,1,1,1,1,2,grain

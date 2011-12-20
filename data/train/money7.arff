@@ -1,0 +1,51 @@
+@relation R_data_frame
+
+@attribute afternoon numeric
+@attribute ban numeric
+@attribute bang numeric
+@attribute banned numeric
+@attribute bantered numeric
+@attribute beset numeric
+@attribute bills numeric
+@attribute bird numeric
+@attribute bottling numeric
+@attribute bought numeric
+@attribute brings numeric
+@attribute cindy numeric
+@attribute cough numeric
+@attribute dirt numeric
+@attribute estimated numeric
+@attribute help numeric
+@attribute hundred numeric
+@attribute insistence numeric
+@attribute lean numeric
+@attribute liquidity numeric
+@attribute mark numeric
+@attribute medicine numeric
+@attribute million numeric
+@attribute mine numeric
+@attribute money numeric
+@attribute month numeric
+@attribute nine numeric
+@attribute pan numeric
+@attribute pant numeric
+@attribute percent numeric
+@attribute provide numeric
+@attribute rain numeric
+@attribute set numeric
+@attribute seven numeric
+@attribute shortage numeric
+@attribute six numeric
+@attribute sixteen numeric
+@attribute sixty numeric
+@attribute staging numeric
+@attribute stc numeric
+@attribute thirteen numeric
+@attribute threefourths numeric
+@attribute total numeric
+@attribute treasury numeric
+@attribute viewed numeric
+@attribute class {money}
+
+@data
+1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,5,1,1,1,5,1,1,3,1,1,1,1,1,2,1,4,1,1,1,1,1,1,1,money

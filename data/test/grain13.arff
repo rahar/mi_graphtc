@@ -1,0 +1,65 @@
+@relation R_data_frame
+
+@attribute accept numeric
+@attribute accepts numeric
+@attribute adjust numeric
+@attribute agriculture numeric
+@attribute april numeric
+@attribute based numeric
+@attribute carnal numeric
+@attribute ccc numeric
+@attribute collector numeric
+@attribute comments numeric
+@attribute congress numeric
+@attribute content numeric
+@attribute corporations numeric
+@attribute court numeric
+@attribute crane numeric
+@attribute dan numeric
+@attribute deliver numeric
+@attribute department numeric
+@attribute discount numeric
+@attribute discounted numeric
+@attribute discounts numeric
+@attribute due numeric
+@attribute encouraged numeric
+@attribute factor numeric
+@attribute grain numeric
+@attribute hour numeric
+@attribute improve numeric
+@attribute kumar numeric
+@attribute law numeric
+@attribute marshall numeric
+@attribute match numeric
+@attribute mate numeric
+@attribute near numeric
+@attribute opinions numeric
+@attribute premium numeric
+@attribute premiums numeric
+@attribute price numeric
+@attribute producers numeric
+@attribute programs numeric
+@attribute public numeric
+@attribute purchases numeric
+@attribute quality numeric
+@attribute question numeric
+@attribute ran numeric
+@attribute report numeric
+@attribute required numeric
+@attribute schedule numeric
+@attribute scheduled numeric
+@attribute schedules numeric
+@attribute seeking numeric
+@attribute seeks numeric
+@attribute sen numeric
+@attribute stipulates numeric
+@attribute support numeric
+@attribute ticket numeric
+@attribute twenty numeric
+@attribute ukraine numeric
+@attribute underscores numeric
+@attribute valuing numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,grain

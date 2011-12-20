@@ -1,0 +1,54 @@
+@relation R_data_frame
+
+@attribute annual numeric
+@attribute april numeric
+@attribute average numeric
+@attribute ban numeric
+@attribute bid numeric
+@attribute certificates numeric
+@attribute close numeric
+@attribute date numeric
+@attribute epoch numeric
+@attribute fifty numeric
+@attribute five numeric
+@attribute flanks numeric
+@attribute footing numeric
+@attribute forty numeric
+@attribute giving numeric
+@attribute government numeric
+@attribute issue numeric
+@attribute issued numeric
+@attribute kala numeric
+@attribute launch numeric
+@attribute loans numeric
+@attribute march numeric
+@attribute market numeric
+@attribute million numeric
+@attribute money numeric
+@attribute months numeric
+@attribute nash numeric
+@attribute nine numeric
+@attribute ninety numeric
+@attribute paper numeric
+@attribute passive numeric
+@attribute payment numeric
+@attribute percent numeric
+@attribute plaques numeric
+@attribute press numeric
+@attribute price numeric
+@attribute pun numeric
+@attribute raised numeric
+@attribute sent numeric
+@attribute series numeric
+@attribute seven numeric
+@attribute sixty numeric
+@attribute subscriptions numeric
+@attribute swiss numeric
+@attribute threepronged numeric
+@attribute till numeric
+@attribute totalling numeric
+@attribute yield numeric
+@attribute class {money}
+
+@data
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,money

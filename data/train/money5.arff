@@ -1,0 +1,44 @@
+@relation R_data_frame
+
+@attribute assistance numeric
+@attribute bang numeric
+@attribute banks numeric
+@attribute banned numeric
+@attribute bills numeric
+@attribute center numeric
+@attribute compares numeric
+@attribute comprising numeric
+@attribute earlier numeric
+@attribute estimate numeric
+@attribute extends numeric
+@attribute fifty numeric
+@attribute forty numeric
+@attribute fourth numeric
+@attribute gene numeric
+@attribute golf numeric
+@attribute hugh numeric
+@attribute hundred numeric
+@attribute lived numeric
+@attribute livein numeric
+@attribute market numeric
+@attribute million numeric
+@attribute money numeric
+@attribute morning numeric
+@attribute nine numeric
+@attribute percent numeric
+@attribute played numeric
+@attribute provided numeric
+@attribute purchases numeric
+@attribute revised numeric
+@attribute session numeric
+@attribute seven numeric
+@attribute shot numeric
+@attribute six numeric
+@attribute sixteen numeric
+@attribute system numeric
+@attribute tedious numeric
+@attribute trade numeric
+@attribute class {money}
+
+@data
+1,1,1,2,1,1,1,1,1,1,1,3,1,1,2,1,1,1,1,1,1,6,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,money

@@ -1,0 +1,50 @@
+@relation R_data_frame
+
+@attribute amount numeric
+@attribute bank numeric
+@attribute basically numeric
+@attribute bought numeric
+@attribute buys numeric
+@attribute communique numeric
+@attribute confirm numeric
+@attribute contain numeric
+@attribute currencies numeric
+@attribute current numeric
+@attribute cut numeric
+@attribute dealer numeric
+@attribute dealers numeric
+@attribute dollar numeric
+@attribute dollars numeric
+@attribute drop numeric
+@attribute economic numeric
+@attribute fell numeric
+@attribute five numeric
+@attribute forty numeric
+@attribute fortyfive numeric
+@attribute gen numeric
+@attribute half numeric
+@attribute hit numeric
+@attribute include numeric
+@attribute intervened numeric
+@attribute issued numeric
+@attribute japan numeric
+@attribute key numeric
+@attribute lament numeric
+@attribute levels numeric
+@attribute market numeric
+@attribute modest numeric
+@attribute pan numeric
+@attribute reaffirm numeric
+@attribute reflect numeric
+@attribute seven numeric
+@attribute speculate numeric
+@attribute swiftly numeric
+@attribute tenor numeric
+@attribute thin numeric
+@attribute train numeric
+@attribute washing numeric
+@attribute yen numeric
+@attribute class {money}
+
+@data
+1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,money

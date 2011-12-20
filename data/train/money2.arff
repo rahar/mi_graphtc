@@ -1,0 +1,52 @@
+@relation R_data_frame
+
+@attribute addition numeric
+@attribute affecting numeric
+@attribute arise numeric
+@attribute balances numeric
+@attribute bankers numeric
+@attribute bills numeric
+@attribute cheering numeric
+@attribute circulation numeric
+@attribute close numeric
+@attribute cupping numeric
+@attribute days numeric
+@attribute deficit numeric
+@attribute drain numeric
+@attribute exchequer numeric
+@attribute factors numeric
+@attribute fifty numeric
+@attribute five numeric
+@attribute forecast numeric
+@attribute funded numeric
+@attribute hands numeric
+@attribute hundred numeric
+@attribute insane numeric
+@attribute liquidity numeric
+@attribute main numeric
+@attribute market numeric
+@attribute million numeric
+@attribute money numeric
+@attribute name numeric
+@attribute ninety numeric
+@attribute offical numeric
+@attribute pang numeric
+@attribute partly numeric
+@attribute purchase numeric
+@attribute remove numeric
+@attribute setting numeric
+@attribute shortage numeric
+@attribute six numeric
+@attribute sticking numeric
+@attribute sts numeric
+@attribute system numeric
+@attribute taker numeric
+@attribute target numeric
+@attribute teaching numeric
+@attribute thin numeric
+@attribute train numeric
+@attribute transactions numeric
+@attribute class {money}
+
+@data
+1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,2,2,2,1,1,1,1,1,1,3,5,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,money

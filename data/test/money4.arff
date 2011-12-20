@@ -1,0 +1,54 @@
+@relation R_data_frame
+
+@attribute added numeric
+@attribute air numeric
+@attribute allege numeric
+@attribute amount numeric
+@attribute bank numeric
+@attribute banker numeric
+@attribute bought numeric
+@attribute central numeric
+@attribute chicken numeric
+@attribute chip numeric
+@attribute close numeric
+@attribute companies numeric
+@attribute consumer numeric
+@attribute courts numeric
+@attribute dealer numeric
+@attribute dollar numeric
+@attribute dollars numeric
+@attribute five numeric
+@attribute forty numeric
+@attribute fortyfive numeric
+@attribute hector numeric
+@attribute house numeric
+@attribute hunt numeric
+@attribute intervene numeric
+@attribute intervenes numeric
+@attribute japan numeric
+@attribute joe numeric
+@attribute live numeric
+@attribute major numeric
+@attribute medium numeric
+@attribute offended numeric
+@attribute panel numeric
+@attribute pressure numeric
+@attribute putting numeric
+@attribute read numeric
+@attribute rocky numeric
+@attribute set numeric
+@attribute shortly numeric
+@attribute six numeric
+@attribute sized numeric
+@attribute soon numeric
+@attribute speculative numeric
+@attribute supported numeric
+@attribute trading numeric
+@attribute training numeric
+@attribute wins numeric
+@attribute yen numeric
+@attribute zero numeric
+@attribute class {money}
+
+@data
+1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,6,4,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,money

@@ -1,0 +1,33 @@
+@relation R_data_frame
+
+@attribute agriculture numeric
+@attribute april numeric
+@attribute august numeric
+@attribute authorised numeric
+@attribute buy numeric
+@attribute country numeric
+@attribute day numeric
+@attribute department numeric
+@attribute dollars numeric
+@attribute egypt numeric
+@attribute existing numeric
+@attribute feet numeric
+@attribute fifteen numeric
+@attribute gip numeric
+@attribute grim numeric
+@attribute hundred numeric
+@attribute million numeric
+@attribute peer numeric
+@attribute ports numeric
+@attribute purchase numeric
+@attribute september numeric
+@attribute seven numeric
+@attribute shepherd numeric
+@attribute thirty numeric
+@attribute thousand numeric
+@attribute valued numeric
+@attribute week numeric
+@attribute class {grain}
+
+@data
+1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,grain

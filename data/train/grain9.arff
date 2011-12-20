@@ -1,0 +1,48 @@
+@relation R_data_frame
+
+@attribute agency numeric
+@attribute amount numeric
+@attribute announced numeric
+@attribute april numeric
+@attribute august numeric
+@attribute beginning numeric
+@attribute campaign numeric
+@attribute christian numeric
+@attribute clock numeric
+@attribute covered numeric
+@attribute credit numeric
+@attribute creditors numeric
+@attribute crew numeric
+@attribute current numeric
+@attribute dci numeric
+@attribute delivery numeric
+@attribute expected numeric
+@attribute explode numeric
+@attribute export numeric
+@attribute exported numeric
+@attribute fifty numeric
+@attribute fourteen numeric
+@attribute france numeric
+@attribute french numeric
+@attribute hundred numeric
+@attribute march numeric
+@attribute meet numeric
+@attribute official numeric
+@attribute pay numeric
+@attribute saidr numeric
+@attribute soft numeric
+@attribute sore numeric
+@attribute tender numeric
+@attribute tennis numeric
+@attribute thousand numeric
+@attribute toe numeric
+@attribute tonne numeric
+@attribute tons numeric
+@attribute traders numeric
+@attribute vande numeric
+@attribute week numeric
+@attribute yea numeric
+@attribute class {grain}
+
+@data
+1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,2,1,2,1,1,1,1,3,2,2,1,1,1,1,2,1,3,1,3,1,2,1,1,1,2,1,grain

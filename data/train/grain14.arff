@@ -1,0 +1,51 @@
+@relation R_data_frame
+
+@attribute agreement numeric
+@attribute agriculture numeric
+@attribute amendment numeric
+@attribute announced numeric
+@attribute apartments numeric
+@attribute appear numeric
+@attribute authorization numeric
+@attribute commodities numeric
+@attribute country numeric
+@attribute current numeric
+@attribute currently numeric
+@attribute day numeric
+@attribute delivery numeric
+@attribute department numeric
+@attribute discussing numeric
+@attribute double numeric
+@attribute fifty numeric
+@attribute fiscal numeric
+@attribute five numeric
+@attribute fourty numeric
+@attribute hundred numeric
+@attribute january numeric
+@attribute mean numeric
+@attribute meant numeric
+@attribute mix numeric
+@attribute morocco numeric
+@attribute morrow numeric
+@attribute noted numeric
+@attribute official numeric
+@attribute oil numeric
+@attribute overbought numeric
+@attribute pier numeric
+@attribute provided numeric
+@attribute purchase numeric
+@attribute return numeric
+@attribute scott numeric
+@attribute september numeric
+@attribute signed numeric
+@attribute six numeric
+@attribute supply numeric
+@attribute tea numeric
+@attribute thirty numeric
+@attribute thousand numeric
+@attribute tonne numeric
+@attribute wage numeric
+@attribute class {grain}
+
+@data
+4,2,2,1,1,1,1,2,2,1,1,1,1,2,2,1,2,1,2,1,1,3,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,1,1,3,3,1,grain

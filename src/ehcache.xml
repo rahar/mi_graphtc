@@ -1,0 +1,3 @@
+<ehcache>
+<cache name="distcache" maxElementsInMemory="10000" eternal="false" overflowToDisk="true" timeToIdleSeconds="0" timeToLiveSeconds="0" diskPersistent="true" diskExpiryThreadIntervalSeconds="120"/>
+</ehcache>

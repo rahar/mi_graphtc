@@ -1,0 +1,33 @@
+@relation R_data_frame
+
+@attribute band numeric
+@attribute banker numeric
+@attribute category numeric
+@attribute cut numeric
+@attribute divided numeric
+@attribute france numeric
+@attribute friends numeric
+@attribute hold numeric
+@attribute induct numeric
+@attribute intervention numeric
+@attribute invited numeric
+@attribute lately numeric
+@attribute march numeric
+@attribute market numeric
+@attribute money numeric
+@attribute ninth numeric
+@attribute occasion numeric
+@attribute offers numeric
+@attribute operators numeric
+@attribute pact numeric
+@attribute people numeric
+@attribute percent numeric
+@attribute price numeric
+@attribute rate numeric
+@attribute read numeric
+@attribute seven numeric
+@attribute stored numeric
+@attribute class {money}
+
+@data
+2,1,1,3,1,2,1,1,1,2,1,1,1,3,3,1,1,2,1,1,1,1,1,1,1,1,1,money
